@@ -109,7 +109,9 @@ sudo ufw status verbose
 
 ## 📸 Evidências
 
-As capturas de tela do laboratório serão disponibilizadas no diretório `evidencias/`.
+A captura abaixo mostra uma etapa da configuração realizada no laboratório.
+
+![Captura do laboratório UFW](Captura%20de%20tela%202026-10-16%20111934.png)
 
 ## 🧠 Conceitos aplicados
 
